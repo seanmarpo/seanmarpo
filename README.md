@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fBOdXBxwoydCs7RK7b/giphy-downsized.gif" width="200"/>
+  <img src="https://i.imgur.com/oTwBtQa.png" height="300" />
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/seanmarpo">
@@ -12,7 +12,7 @@
   
   <h2><i>🛠 I do stuff and break things - Nice to meet you 👋</i></h2>
   
-  <img src="https://i.imgur.com/oTwBtQa.png" height="300" />
+  
 </div>
 
 ## 💻 About Me

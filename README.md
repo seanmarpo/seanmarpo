@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fBOdXBxwoydCs7RK7b/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/fBOdXBxwoydCs7RK7b/giphy-downsized.gif" width="200"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/seanmarpo">
@@ -10,6 +10,27 @@
     </a>
   </div>
   
-  <h1>🛠 I do stuff and break things - Nice to meet you 👋</h1>
+  <h2><i>🛠 I do stuff and break things - Nice to meet you 👋</i></h2>
+  
+  <img src="https://i.imgur.com/oTwBtQa.png" height="300" />
 </div>
+
+## 💻 About Me
+
+I'm a Security Engineer with a passion for finding fun, unique, and complicated issues with code
+
+- Currently working remotely as a Senior Security Engineer from the Northern Sacramento area
+- Dabbling with random crypto projects ([Presearch](https://presearch.com/signup?rid=2447990), Helium)
+- Working the [bug bounty scene](https://bugcrowd.com/arcaneanomie) when time permits
+- [Streaming](https://twitch.tv/arcaneanomie) video games less and less these days
+  
+## 📊 Stats - 'cause metrics show progress or something
+
+<div id="summary" align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanmarpo&theme=react)](https://github.com/anuraghazra/github-readme-stats) [![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanmarpo&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
 

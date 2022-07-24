@@ -19,7 +19,7 @@
 
 I'm a Security Engineer with a passion for finding fun, unique, and complicated issues with code
 
-- Currently working remotely as a Senior Security Engineer from the Northern Sacramento area
+- Currently working remotely as a Senior Security Engineer from the Northeastern Sacramento area
 - Dabbling with random crypto projects ([Presearch](https://presearch.com/signup?rid=2447990), Helium)
 - Working the [bug bounty scene](https://bugcrowd.com/arcaneanomie) when time permits
 - [Streaming](https://twitch.tv/arcaneanomie) video games less and less these days
